@@ -1,6 +1,6 @@
 # Coordinator: Prof. (H.O.D-ECE) Neena Gupta 
-# Co-Coordinator: Prof. Divya Dhawan  
-# Co-Coordinator: Prof. Jyoti Kedia
+## Co-Coordinator: Prof. Divya Dhawan  
+## Co-Coordinator: Prof. Jyoti Kedia
 # KNOW_ABOUT_OUR_LAB
 The main activity of the group is to facilitate research and development in the area of photonics to form design, simulation and demonstration of new technologies for further broadband photonic communication systems and compare upgrade strategies. It will be used to design optical transmission systems, evaluate impact of real world equipment and new component ideas on system design. This multi-user shared research facility may be extended for consultancy and Industrial research. The activity is to accelerate the design of new photonic systems for short range via access and metro to long haul optical transmission systems by allowing technology upgrade and component substitution strategies for existing network plants.
 # PUBLICATIONS - 2020
@@ -11,6 +11,7 @@ The main activity of the group is to facilitate research and development in the 
 # PUBLICATIONS - 2019
 
 ### Kedia, Jyoti, Anurag Sharma, and Neena Gupta. "Low-power optical network-on-chip using low-loss multilayer silicon wire waveguide." Journal of Optics 48.4 (2019): 557-566.
+#### https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12596-019-00565-7/MediaObjects/12596_2019_565_Fig3_HTML.png?as=webp
 ### Sahota, Jasjot Kaur, and Divya Dhawan. "Performance analysis of homodyne-based FSO system using various optical amplifiers." Journal of Optical Communications 1.ahead-of-print (2018).
 
 # PUBLICATIONS - 2018
