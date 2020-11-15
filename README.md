@@ -5,7 +5,11 @@
 The main activity of the group is to facilitate research and development in the area of photonics to form design, simulation and demonstration of new technologies for further broadband photonic communication systems and compare upgrade strategies. It will be used to design optical transmission systems, evaluate impact of real world equipment and new component ideas on system design. This multi-user shared research facility may be extended for consultancy and Industrial research. The activity is to accelerate the design of new photonic systems for short range via access and metro to long haul optical transmission systems by allowing technology upgrade and component substitution strategies for existing network plants.
 # PUBLICATIONS - 2020
 
+### Jeevan Jot Singh, Divya Dhawan, and Neena Gupta "All-optical photonic crystal logic gates for optical computing: an extensive review," Optical Engineering 59(11), 110901 (13 November 2020). https://doi.org/10.1117/1.OE.59.11.110901
+Received: 16 September 2020; Accepted: 21 October 2020; Published: 13 November 2020
+
 ### Jasjot K. Sahota, Neena Gupta, and Divya Dhawan "Fiber Bragg grating sensors for monitoring of physical parameters: a comprehensive review," Optical Engineering 59(6), 060901 (25 June 2020). https://doi.org/10.1117/1.OE.59.6.060901
+
 ### Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Nanostructured material engineering for ultra-low loss MWIR thermal sensors–A short review." Materials Today: Proceedings (2020).
 
 # PUBLICATIONS - 2019
