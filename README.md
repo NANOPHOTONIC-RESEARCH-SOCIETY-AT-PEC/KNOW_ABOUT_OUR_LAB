@@ -10,7 +10,6 @@ The main activity of the group is to facilitate research and development in the 
 # PUBLICATIONS - 2020
 
 [Jeevan Jot Singh, Divya Dhawan, and Neena Gupta "All-optical photonic crystal logic gates for optical computing: an extensive review," Optical Engineering 59(11), 110901 (13 November 2020)](https://doi.org/10.1117/1.OE.59.11.110901)
-Received: 16 September 2020; Accepted: 21 October 2020; Published: 13 November 2020
 
 [Jasjot K. Sahota, Neena Gupta, and Divya Dhawan "Fiber Bragg grating sensors for monitoring of physical parameters: a comprehensive review," Optical Engineering 59(6), 060901 (25 June 2020).](https://doi.org/10.1117/1.OE.59.6.060901)
 
@@ -18,23 +17,30 @@ Received: 16 September 2020; Accepted: 21 October 2020; Published: 13 November 2
 
 # PUBLICATIONS - 2019
 
-### [Kedia, Jyoti, Anurag Sharma, and Neena Gupta. "Low-power optical network-on-chip using low-loss multilayer silicon wire waveguide." Journal of Optics 48.4 (2019): 557-566.]( https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12596-019-00565-7/MediaObjects/12596_2019_565_Fig3_HTML.png?as=webp)
+[Kedia, Jyoti, Anurag Sharma, and Neena Gupta. "Low-power optical network-on-chip using low-loss multilayer silicon wire waveguide." Journal of Optics 48.4 (2019): 557-566.]( https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12596-019-00565-7/MediaObjects/12596_2019_565_Fig3_HTML.png?as=webp)
 
 [Sahota, Jasjot Kaur, and Divya Dhawan. "Performance analysis of homodyne-based FSO system using various optical amplifiers." Journal of Optical Communications 1.ahead-of-print (2018).](https://www.degruyter.com/document/doi/10.1515/joc-2018-0005/html)
 
 # PUBLICATIONS - 2018
 
-### Sahota, Jasjot Kaur, and Divya Dhawan. "Reducing the effect of scintillation in FSO system using coherent based homodyne detection." Optik 171 (2018): 20-26.
-### Jarangal, Ekta, and Divya Dhawan. "Comparison of channel models based on Atmospheric turbulences of FSO system-A Review." Int J Res Electron Comput Eng 6 (2018): 282-7.
-### Dhawan, Divya, and Neena Gupta. "Performance analysis of laser phase noise compensated COOFDM system." Journal of Optical Communications 1.ahead-of-print (2018).
-### Asiwal, Aradhana, and Divya Dhawan. "Comparative Analysis of Dispersion Compensating Fiber (DCF) and Multiple Optical Phase Conjugation (OPC) modules used for Dispersion Compensation and Nonlinearity Mitigation." International Journal on Recent and Innovation Trends in Computing and Communication 5.8: 105-109.
+[Sahota, Jasjot Kaur, and Divya Dhawan. "Reducing the effect of scintillation in FSO system using coherent based homodyne detection." Optik 171 (2018): 20-26.]
+
+[Jarangal, Ekta, and Divya Dhawan. "Comparison of channel models based on Atmospheric turbulences of FSO system-A Review." Int J Res Electron Comput Eng 6 (2018): 282-7.]
+
+[Dhawan, Divya, and Neena Gupta. "Performance analysis of laser phase noise compensated COOFDM system." Journal of Optical Communications 1.ahead-of-print (2018).]
+
+[Asiwal, Aradhana, and Divya Dhawan. "Comparative Analysis of Dispersion Compensating Fiber (DCF) and Multiple Optical Phase Conjugation (OPC) modules used for 
+Dispersion Compensation and Nonlinearity Mitigation." International Journal on Recent and Innovation Trends in Computing and Communication 5.8: 105-109.]
 
 # PUBLICATIONS - 2017
 
-### Kedia, Jyoti, and Neena Gupta. "Numerical simulation of low loss silicon photonic wire waveguide with multiple cladding layers." Optical and Quantum Electronics 49.5 (2017): 185.
-### Dhawan, Divya, and Neena Gupta. "Performance Analysis of Post Compensated Long Haul High Speed Coherent Optical OFDM System." International Journal of Electrical and Computer Engineering 7.1 (2017): 160.
-### Kedia, Jyoti, and Neena Gupta. "A High Finesse Serial Coupled Microresonator Filter." Journal of Optical Communications 41.2 (2020): 117-123.
-### Dhawan, Divya, and Neena Gupta. "Investigation of tolerable laser linewidth for different modulation formats in CO-OFDM systems." Optics and Photonics Journal 7.5 (2017): 92-100.
+[Kedia, Jyoti, and Neena Gupta. "Numerical simulation of low loss silicon photonic wire waveguide with multiple cladding layers." Optical and Quantum Electronics 49.5 (2017): 185.]
+
+[Dhawan, Divya, and Neena Gupta. "Performance Analysis of Post Compensated Long Haul High Speed Coherent Optical OFDM System." International Journal of Electrical and Computer Engineering 7.1 (2017): 160.]
+
+[Kedia, Jyoti, and Neena Gupta. "A High Finesse Serial Coupled Microresonator Filter." Journal of Optical Communications 41.2 (2020): 117-123.]
+
+[Dhawan, Divya, and Neena Gupta. "Investigation of tolerable laser linewidth for different modulation formats in CO-OFDM systems." Optics and Photonics Journal 7.5 (2017): 92-100.]
 
 # PUBLICATIONS - 2016
 
