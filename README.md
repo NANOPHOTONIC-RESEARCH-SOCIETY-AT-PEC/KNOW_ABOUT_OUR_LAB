@@ -9,18 +9,18 @@ The main activity of the group is to facilitate research and development in the 
 
 # PUBLICATIONS - 2020
 
-### Jeevan Jot Singh, Divya Dhawan, and Neena Gupta "All-optical photonic crystal logic gates for optical computing: an extensive review," Optical Engineering 59(11), 110901 (13 November 2020). https://doi.org/10.1117/1.OE.59.11.110901
+[Jeevan Jot Singh, Divya Dhawan, and Neena Gupta "All-optical photonic crystal logic gates for optical computing: an extensive review," Optical Engineering 59(11), 110901 (13 November 2020)](https://doi.org/10.1117/1.OE.59.11.110901)
 Received: 16 September 2020; Accepted: 21 October 2020; Published: 13 November 2020
 
-### Jasjot K. Sahota, Neena Gupta, and Divya Dhawan "Fiber Bragg grating sensors for monitoring of physical parameters: a comprehensive review," Optical Engineering 59(6), 060901 (25 June 2020). https://doi.org/10.1117/1.OE.59.6.060901
+[Jasjot K. Sahota, Neena Gupta, and Divya Dhawan "Fiber Bragg grating sensors for monitoring of physical parameters: a comprehensive review," Optical Engineering 59(6), 060901 (25 June 2020).](https://doi.org/10.1117/1.OE.59.6.060901)
 
-### Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Nanostructured material engineering for ultra-low loss MWIR thermal sensors–A short review." Materials Today: Proceedings (2020).
+[Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Nanostructured material engineering for ultra-low loss MWIR thermal sensors–A short review." Materials Today: Proceedings (2020).](https://doi.org/10.1016/j.matpr.2020.05.133)
 
 # PUBLICATIONS - 2019
 
-### Kedia, Jyoti, Anurag Sharma, and Neena Gupta. "Low-power optical network-on-chip using low-loss multilayer silicon wire waveguide." Journal of Optics 48.4 (2019): 557-566.
-#### https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12596-019-00565-7/MediaObjects/12596_2019_565_Fig3_HTML.png?as=webp
-### Sahota, Jasjot Kaur, and Divya Dhawan. "Performance analysis of homodyne-based FSO system using various optical amplifiers." Journal of Optical Communications 1.ahead-of-print (2018).
+### [Kedia, Jyoti, Anurag Sharma, and Neena Gupta. "Low-power optical network-on-chip using low-loss multilayer silicon wire waveguide." Journal of Optics 48.4 (2019): 557-566.]( https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12596-019-00565-7/MediaObjects/12596_2019_565_Fig3_HTML.png?as=webp)
+
+[Sahota, Jasjot Kaur, and Divya Dhawan. "Performance analysis of homodyne-based FSO system using various optical amplifiers." Journal of Optical Communications 1.ahead-of-print (2018).](https://www.degruyter.com/document/doi/10.1515/joc-2018-0005/html)
 
 # PUBLICATIONS - 2018
 
@@ -43,7 +43,6 @@ Received: 16 September 2020; Accepted: 21 October 2020; Published: 13 November 2
 
 # PUBLICATIONS - 2015
 
-### Kedia, Jyoti, and Neena Gupta. "Design and analysis of serially coupled double ring resonator filter." Journal of Nanoelectronics and Optoelectronics 10.6 (2015): 755-760.
 ### Kedia, Jyoti, and Neena Gupta. "Design and analysis of serially coupled double ring resonator filter." Journal of Nanoelectronics and Optoelectronics 10.6 (2015): 755-760.
 ### Gupta, Dhanvi, and Divya Dhawan. "A study of various PAPR reduction techniques for optical OFDM systems." International Journal of Computer Applications 115.15 (2015): 26-29.
 
