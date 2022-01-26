@@ -6,12 +6,13 @@
 
 # KNOW_ABOUT_OUR_LAB
 The main activity of the group is to facilitate research and development in the area of photonics to form design, simulation and demonstration of new technologies for further broadband photonic communication systems and compare upgrade strategies. It will be used to design optical transmission systems, evaluate impact of real world equipment and new component ideas on system design. This multi-user shared research facility may be extended for consultancy and Industrial research. The activity is to accelerate the design of new photonic systems for short range via access and metro to long haul optical transmission systems by allowing technology upgrade and component substitution strategies for existing network plants.
+
 # PUBLICATIONS - 2021
 
 [Neena Gupta, Jyoti Kedia, Anurag Sharma, "Emerging nanostructured infrared absorbers enabling cost-effective image sensing: a review," Opt. Eng. 60(9), 090901 (2021), doi: 10.1117/1.OE.60.9.090901.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Brochure/OE-20210686V_online.pdf)
 
-
 # PUBLICATIONS - 2020
+[Neena Gupta, Jyoti Kedia, Anurag Sharma, "Nano-structured Phoxonic Crystals for MWIR Sensing" NIST-Atomistic Simulations for Industrial Needs, VIRTUAL POSTER SESSION, August 05, 2020, Session I:  (3:00 pm - 3:30 pm EDT)](https://www.nist.gov/news-events/events/2020/08/atomistic-simulations-industrial-needs)
 
 [Jeevan Jot Singh, Divya Dhawan, and Neena Gupta "All-optical photonic crystal logic gates for optical computing: an extensive review," Optical Engineering 59(11), 110901 (13 November 2020)](https://doi.org/10.1117/1.OE.59.11.110901)
 
