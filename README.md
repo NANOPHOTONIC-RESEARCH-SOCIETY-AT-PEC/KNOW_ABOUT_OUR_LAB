@@ -9,7 +9,7 @@ The main activity of the group is to facilitate research and development in the 
 
 # PUBLICATIONS - 2021
 
-[Neena Gupta, Jyoti Kedia, Anurag Sharma, "Emerging nanostructured infrared absorbers enabling cost-effective image sensing: a review," Opt. Eng. 60(9), 090901 (2021), doi: 10.1117/1.OE.60.9.090901.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Brochure/OE-20210686V_online.pdf)
+[Anurag SHarma, Jyoti Kedia, Neena Gupta, "Emerging nanostructured infrared absorbers enabling cost-effective image sensing: a review," Opt. Eng. 60(9), 090901 (2021), doi: 10.1117/1.OE.60.9.090901.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Brochure/OE-20210686V_online.pdf)
 
 # PUBLICATIONS - 2020
 [Neena Gupta, Jyoti Kedia, Anurag Sharma, "Nano-structured Phoxonic Crystals for MWIR Sensing" NIST-Atomistic Simulations for Industrial Needs, VIRTUAL POSTER SESSION, August 05, 2020, Session I:  (3:00 pm - 3:30 pm EDT)](https://www.nist.gov/news-events/events/2020/08/atomistic-simulations-industrial-needs)
