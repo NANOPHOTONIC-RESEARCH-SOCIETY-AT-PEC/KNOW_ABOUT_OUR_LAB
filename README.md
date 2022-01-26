@@ -83,15 +83,27 @@ Bhambri, Kadam, et al. "A novel approach for SOA-based all-optical NAND gate." 2
 # PUBLICATIONS - 2010
 Gupta, Neena, Divya Dhawan, and Abhishek Katiyar. "A Novel design of All Optical Logic Gates at 10Gb/s." Latin America Optics and Photonics Conference. Optical Society of America, 2010.
 
-# Our Partnered Labs/Societies
+# Our Partnered Institutes/Labs/Societies/Industy
 
 <div align="center">
   <a href="https://sites.google.com/site/nrlpec/home">
-    <img width="30px" src="https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB/blob/master/GALLERY/SRC%20Logo%20transparent.png"  />
+    <img width="200px" src="https://lh4.googleusercontent.com/hymylW6_Qaq6cnIleSKMlOzU1zBvNIM1WHdxigHDkBeO4TObeVokwh1hi7DdTTdT_p397QmWeqpix7vGHm44u1w=w16383"  />
   </a>
   &nbsp;
   <a href="https://spie.org/membership/student-services/student-chapters/student-chapter?chapter_id=1086399&SSO=1">
-    <img width="30px" src="https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB/blob/master/GALLERY/spie-csio.jpg"  />
+    <img width="200px" src="https://spie.org/Documents/Students/Chapter%20Logos/CSIOChandigarh_Logo.jpg"  />
+  </a>
+  &nbsp;
+  <a href="https://www.foservice.com/">
+    <img width="200px" src="http://www.foservice.com/wp-content/uploads/2016/08/logo.png"  />
+  </a>
+  &nbsp;
+  <a href="https://www.vpiphotonics.com/index.php">
+    <img width="200px" src="https://www.vpiphotonics.com/images/logo.png"  />
+  </a>
+  &nbsp;
+  <a href="https://inst.ac.in/">
+    <img width="200px" src="https://inst.ac.in/public/uploads/settings/15683545082902.png"  />
   </a>
   &nbsp;
 </div>
