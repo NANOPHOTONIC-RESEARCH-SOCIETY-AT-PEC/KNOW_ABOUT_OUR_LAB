@@ -83,4 +83,7 @@ Bhambri, Kadam, et al. "A novel approach for SOA-based all-optical NAND gate." 2
 # PUBLICATIONS - 2010
 Gupta, Neena, Divya Dhawan, and Abhishek Katiyar. "A Novel design of All Optical Logic Gates at 10Gb/s." Latin America Optics and Photonics Conference. Optical Society of America, 2010.
 
+# Partners
 
+[Semiconductor Research Center-PEC]((https://sites.google.com/site/nrlpec/home)
+![](https://lh5.googleusercontent.com/uijusyPUiljMMX2fCSmFVm-GxbJ8K0IjboYbt6w3DsUSIv8HQppVwTuYE7GnViqkLeMCCgkq4wNth0F2ioRi52w=w16383)
