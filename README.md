@@ -85,5 +85,4 @@ Gupta, Neena, Divya Dhawan, and Abhishek Katiyar. "A Novel design of All Optical
 
 # Partners
 
-[Semiconductor Research Center-PEC]((https://sites.google.com/site/nrlpec/home)
-![](https://lh5.googleusercontent.com/uijusyPUiljMMX2fCSmFVm-GxbJ8K0IjboYbt6w3DsUSIv8HQppVwTuYE7GnViqkLeMCCgkq4wNth0F2ioRi52w=w16383)
+[![Semiconductor Research Center-PEC](https://lh5.googleusercontent.com/uijusyPUiljMMX2fCSmFVm-GxbJ8K0IjboYbt6w3DsUSIv8HQppVwTuYE7GnViqkLeMCCgkq4wNth0F2ioRi52w=w16383)](https://sites.google.com/site/nrlpec/home)
