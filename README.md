@@ -86,11 +86,7 @@ Gupta, Neena, Divya Dhawan, and Abhishek Katiyar. "A Novel design of All Optical
 # Our Partnered Institutes/Labs/Societies/Industy
 
 <div align="center">
-  <a href="https://sites.google.com/site/nrlpec/home">
-    <img width="200px" src="https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB/blob/master/GALLERY/SRC%20Logo%20transparent.png"  />
-  </a>
-  &nbsp;
-  <a href="https://spie.org/membership/student-services/student-chapters/student-chapter?chapter_id=1086399&SSO=1">
+    <a href="https://spie.org/membership/student-services/student-chapters/student-chapter?chapter_id=1086399&SSO=1">
     <img width="200px" src="https://spie.org/Documents/Students/Chapter%20Logos/CSIOChandigarh_Logo.jpg"  />
   </a>
   &nbsp;
@@ -104,6 +100,10 @@ Gupta, Neena, Divya Dhawan, and Abhishek Katiyar. "A Novel design of All Optical
   &nbsp;
   <a href="https://inst.ac.in/">
     <img width="200px" src="https://inst.ac.in/public/uploads/settings/15683545082902.png"  />
+  </a>
+  &nbsp;
+  <a href="https://sites.google.com/site/nrlpec/home">
+    <img width="200px" src="https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB/blob/master/GALLERY/SRC%20Logo%20transparent.png"  />
   </a>
   &nbsp;
 </div>
