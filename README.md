@@ -6,6 +6,8 @@
 
 # KNOW_ABOUT_OUR_LAB
 The main activity of the group is to facilitate research and development in the area of photonics to form design, simulation and demonstration of new technologies for further broadband photonic communication systems and compare upgrade strategies. It will be used to design optical transmission systems, evaluate impact of real world equipment and new component ideas on system design. This multi-user shared research facility may be extended for consultancy and Industrial research. The activity is to accelerate the design of new photonic systems for short range via access and metro to long haul optical transmission systems by allowing technology upgrade and component substitution strategies for existing network plants.
+# PUBLICATIONS - 2022
+[Anurag SHarma, Jyoti Kedia, Neena Gupta, 2022, March. Design of a SiGe Waveguide Photodetector with PxC Cavity for Broadband MWIR Sensing. In 2022 Workshop on Recent Advances in Photonics (WRAP) (pp. 1-2). IEEE. ](https://ieeexplore.ieee.org/abstract/document/9758185)
 
 # PUBLICATIONS - 2021
 
@@ -18,7 +20,7 @@ The main activity of the group is to facilitate research and development in the 
 
 [Jasjot K. Sahota, Neena Gupta, and Divya Dhawan "Fiber Bragg grating sensors for monitoring of physical parameters: a comprehensive review," Optical Engineering 59(6), 060901 (25 June 2020).](https://doi.org/10.1117/1.OE.59.6.060901)
 
-[Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Nanostructured material engineering for ultra-low loss MWIR thermal sensors–A short review." Materials Today: Proceedings (2020).](https://doi.org/10.1016/j.matpr.2020.05.133)
+[Anurag SHarma, Jyoti Kedia, Neena Gupta. "Nanostructured material engineering for ultra-low loss MWIR thermal sensors–A short review." Materials Today: Proceedings (2020).](https://doi.org/10.1016/j.matpr.2020.05.133)
 
 # PUBLICATIONS - 2019
 
