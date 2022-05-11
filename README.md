@@ -58,35 +58,45 @@ Singh, Amoldeep, and Divya Dhawan. "Efficient Reversible Multiplexer Design Usin
 
 # PUBLICATIONS - 2015
 
-Kedia, Jyoti, and Neena Gupta. "Design and analysis of serially coupled double ring resonator filter." Journal of Nanoelectronics and Optoelectronics 10.6 (2015): 755-760.
-Gupta, Dhanvi, and Divya Dhawan. "A study of various PAPR reduction techniques for optical OFDM systems." International Journal of Computer Applications 115.15 (2015): 26-29.
+[Kedia, Jyoti, and Neena Gupta. "Design and analysis of serially coupled double ring resonator filter." Journal of Nanoelectronics and Optoelectronics 10.6 (2015): 755-760.]
+
+[Gupta, Dhanvi, and Divya Dhawan. "A study of various PAPR reduction techniques for optical OFDM systems." International Journal of Computer Applications 115.15 (2015): 26-29.]
 
 # PUBLICATIONS - 2014
 
-Sangwan, Sandeep, and Jyoti Kedia. "Performance Analysis of Full Adder Circuit using Improved Feed through Logic." International Journal of Computer Applications 101.7 (2014).
-DSangwan, Sandeep, and Jyoti Kedia. "Performance Analysis of Full Adder Circuit using Improved Feed through Logic." International Journal of Computer Applications 101.7 (2014).
-Pehraj, Pehraj, and Divya Divya. "Performance Analysis of RoF PON System based on Orthogonal Frequency Division Multiplexing Technique." IJCA. Vol. 95. No. 26. 2014. Singh, Prabhjot. "Review of Non-Linear Transform based Techniques to Reduce the PAPR in OFDM Systems." International Journal of Computer Applications 95.23 (2014).
+[Sangwan, Sandeep, and Jyoti Kedia. "Performance Analysis of Full Adder Circuit using Improved Feed through Logic." International Journal of Computer Applications 101.7 (2014).]
+
+[DSangwan, Sandeep, and Jyoti Kedia. "Performance Analysis of Full Adder Circuit using Improved Feed through Logic." International Journal of Computer Applications 101.7 (2014).]
+
+[Pehraj, Pehraj, and Divya Divya. "Performance Analysis of RoF PON System based on Orthogonal Frequency Division Multiplexing Technique." IJCA. Vol. 95. No. 26. 2014.]
+
+[Singh, Prabhjot. "Review of Non-Linear Transform based Techniques to Reduce the PAPR in OFDM Systems." International Journal of Computer Applications 95.23 (2014).]
 
 # PUBLICATIONS - 2013
 
-Kaur, Prabhmandeep, et al. "Study on FEC schemes for optical communication systems." 2013 National Conference on Communications (NCC). IEEE, 2013.
-Gupta, Naveen et al. “A Novel Physical Security in Wavelength Division Multiplexing Passive Optical Network (WDM-PON) Using Broadband Light Source.” (2013).
+[Kaur, Prabhmandeep, et al. "Study on FEC schemes for optical communication systems." 2013 National Conference on Communications (NCC). IEEE, 2013.]
+
+[Gupta, Naveen et al. “A Novel Physical Security in Wavelength Division Multiplexing Passive Optical Network (WDM-PON) Using Broadband Light Source.” (2013).]
 
 # PUBLICATIONS - 2012
 
-Jain, Abhinandan, Dilip Kumar, and Jyoti Kedia. "Design and development of GSM based energy meter." International Journal of Computer Applications 47.12 (2012).
-PUNETHA, Mr DEEPAK, Mr MANDEEP SINGH, and Ms DIVYA. "Feasibility of a GSM Module Based Wireless Vehicle Accident Detection and Alert System (VADAS)."
+[Jain, Abhinandan, Dilip Kumar, and Jyoti Kedia. "Design and development of GSM based energy meter." International Journal of Computer Applications 47.12 (2012).]
+
+[PUNETHA, Mr DEEPAK, Mr MANDEEP SINGH, and Ms DIVYA. "Feasibility of a GSM Module Based Wireless Vehicle Accident Detection and Alert System (VADAS)."]
 
 # PUBLICATIONS - 2011
 
-Dhawan, Divya, and Neena Gupta. "Optimization of fiber based dispersion compensation in RZ and NRZ data modulation formats." Journal of Engineering Science and Technology 6.6 (2011): 651-663.
-Bala, Raj, Divya Dhawan, and Neena Gupta. "A Novel Approach for System Modeling to Transmit Voice, Video and Data Using OFDM in FTTH Networks." 2011 7th International Conference on Wireless Communications, Networking and Mobile Computing. IEEE, 2011.
-Kedia, Jyoti, and Neena Gupta. "On-Chip Optical Interconnects: A Viable Approach." International Journal of Computer Science Engineering & Technology 1.1 (2011).
-Kaur, Amrit, et al. "PERFORMANCE EVALUATION OF OCDMA SYSTEM USING MATLAB WITH ZCC CODE."
-Bhambri, Kadam, et al. "A novel approach for SOA-based all-optical NAND gate." 2011 13th International Conference on Transparent Optical Networks. IEEE, 2011.
+[Dhawan, Divya, and Neena Gupta. "Optimization of fiber based dispersion compensation in RZ and NRZ data modulation formats." Journal of Engineering Science and Technology 6.6 (2011): 651-663.]
+
+[Bala, Raj, Divya Dhawan, and Neena Gupta. "A Novel Approach for System Modeling to Transmit Voice, Video and Data Using OFDM in FTTH Networks." 2011 7th International Conference on Wireless Communications, Networking and Mobile Computing. IEEE, 2011.]
+
+[Kedia, Jyoti, and Neena Gupta. "On-Chip Optical Interconnects: A Viable Approach." International Journal of Computer Science Engineering & Technology 1.1 (2011).]
+
+[Kaur, Amrit, et al. "PERFORMANCE EVALUATION OF OCDMA SYSTEM USING MATLAB WITH ZCC CODE."
+Bhambri, Kadam, et al. "A novel approach for SOA-based all-optical NAND gate." 2011 13th International Conference on Transparent Optical Networks. IEEE, 2011.]
 
 # PUBLICATIONS - 2010
-Gupta, Neena, Divya Dhawan, and Abhishek Katiyar. "A Novel design of All Optical Logic Gates at 10Gb/s." Latin America Optics and Photonics Conference. Optical Society of America, 2010.
+[Gupta, Neena, Divya Dhawan, and Abhishek Katiyar. "A Novel design of All Optical Logic Gates at 10Gb/s." Latin America Optics and Photonics Conference. Optical Society of America, 2010.]
 
 # Our Partnered Institutes/Labs/Societies/Industy
 
