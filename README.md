@@ -7,13 +7,18 @@
 # KNOW_ABOUT_OUR_LAB
 The main activity of the group is to facilitate research and development in the area of photonics to form design, simulation and demonstration of new technologies for further broadband photonic communication systems and compare upgrade strategies. It will be used to design optical transmission systems, evaluate impact of real world equipment and new component ideas on system design. This multi-user shared research facility may be extended for consultancy and Industrial research. The activity is to accelerate the design of new photonic systems for short range via access and metro to long haul optical transmission systems by allowing technology upgrade and component substitution strategies for existing network plants.
 # PUBLICATIONS - 2022
+[Anurag Sharma, Jyoti Kedia, Neena Gupta, "An Analytical framework tailoring multispectral phoXonic Interactions
+over Longer wavelengths," will be communicated to Material Today Nano 2022]()
+
+[Anurag Sharma, Jyoti Kedia, Neena Gupta, "The Multispectral Transmission through Phoxonic Crystal Slot-Waveguide at Mid-wave Infrared (MWIR) frequencies," communicated to Opt. Eng. 2022]()
+
 [Rashi Chandel, Divya Dhawan, and Neena Gupta. "Optimization of Highly Efficient and Eco-Friendly EA-Substituted Tin Based Perovskite Solar Cell with Different Hole Transport Material." (2022).](https://assets.researchsquare.com/files/rs-995774/v1_covered.pdf?c=1641424296)
 
-[Anurag SHarma, Jyoti Kedia, Neena Gupta, 2022, March. Design of a SiGe Waveguide Photodetector with PxC Cavity for Broadband MWIR Sensing. In 2022 Workshop on Recent Advances in Photonics (WRAP) (pp. 1-2). IEEE. ](https://ieeexplore.ieee.org/abstract/document/9758185)
+[Anurag Sharma, Jyoti Kedia, Neena Gupta, 2022, March. Design of a SiGe Waveguide Photodetector with PxC Cavity for Broadband MWIR Sensing. In 2022 Workshop on Recent Advances in Photonics (WRAP) (pp. 1-2). IEEE. ](https://ieeexplore.ieee.org/abstract/document/9758185)
 
 # PUBLICATIONS - 2021
 
-[Anurag SHarma, Jyoti Kedia, Neena Gupta, "Emerging nanostructured infrared absorbers enabling cost-effective image sensing: a review," Opt. Eng. 60(9), 090901 (2021), doi: 10.1117/1.OE.60.9.090901.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Brochure/OE-20210686V_online.pdf)
+[Anurag Sharma, Jyoti Kedia, Neena Gupta, "Emerging nanostructured infrared absorbers enabling cost-effective image sensing: a review," Opt. Eng. 60(9), 090901 (2021), doi: 10.1117/1.OE.60.9.090901.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Brochure/OE-20210686V_online.pdf)
 
 # PUBLICATIONS - 2020
 [Jyoti Kedia, Neena Gupta, Anurag Sharma, "Nano-structured Phoxonic Crystals for MWIR Sensing" NIST-Atomistic Simulations for Industrial Needs, VIRTUAL POSTER SESSION, August 05, 2020, Session I:  (3:00 pm - 3:30 pm EDT)](https://www.nist.gov/news-events/events/2020/08/atomistic-simulations-industrial-needs)
@@ -22,7 +27,7 @@ The main activity of the group is to facilitate research and development in the 
 
 [Jasjot K. Sahota, Neena Gupta, and Divya Dhawan "Fiber Bragg grating sensors for monitoring of physical parameters: a comprehensive review," Optical Engineering 59(6), 060901 (25 June 2020).](https://doi.org/10.1117/1.OE.59.6.060901)
 
-[Anurag SHarma, Jyoti Kedia, Neena Gupta. "Nanostructured material engineering for ultra-low loss MWIR thermal sensors–A short review." Materials Today: Proceedings (2020).](https://doi.org/10.1016/j.matpr.2020.05.133)
+[Anurag Sharma, Jyoti Kedia, Neena Gupta. "Nanostructured material engineering for ultra-low loss MWIR thermal sensors–A short review." Materials Today: Proceedings (2020).](https://doi.org/10.1016/j.matpr.2020.05.133)
 
 # PUBLICATIONS - 2019
 
