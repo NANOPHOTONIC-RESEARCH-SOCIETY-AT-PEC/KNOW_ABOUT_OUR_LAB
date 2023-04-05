@@ -8,7 +8,7 @@
 The main activity of the group is to facilitate research and development in the area of photonics to form design, simulation and demonstration of new technologies for further broadband photonic communication systems and compare upgrade strategies. It will be used to design optical transmission systems, evaluate impact of real world equipment and new component ideas on system design. This multi-user shared research facility may be extended for consultancy and Industrial research. The activity is to accelerate the design of new photonic systems for short range via access and metro to long haul optical transmission systems by allowing technology upgrade and component substitution strategies for existing network plants.
 
 # PUBLICATIONS - 2023
-[Anurag Sharma, Jyoti Kedia, Neena Gupta, "The Multispectral Transmission through Phoxonic Crystal Slot-Waveguide at Mid-wave Infrared (MWIR) frequencies," J. of Opt. Eng. 2023](ACCEPTED)
+[Anurag Sharma, Jyoti Kedia, Neena Gupta,,Multispectral transmission through Phoxonic crystal slot-waveguide at midwave infrared frequencies, Opt. Eng. 62(4), 047101 (2023), doi: 10.1117/1.OE.62.4.047101.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB/blob/master/GALLERY/OE-20221178G_online.pdf)
 
 # PUBLICATIONS - 2022
 
