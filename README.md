@@ -10,11 +10,23 @@ The main activity of the group is to facilitate research and development in the 
 # PUBLICATIONS - 2025
 [Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Numerical Demonstration of Low-Dark-Current Photodetector using Phoxonic Crystal Waveguide for Midwave Infrared (MWIR) Sensing." Sensors and Actuators A: Physical, Volume 391, 2025, 116634,ISSN 0924-4247, https://doi.org/10.1016/j.sna.2025.116634.](https://www.linkedin.com/in/designerguy13atpec/overlay/1746186590359/single-media-viewer?type=DOCUMENT&profileId=ACoAABXDomgBi2gdTF9jLNJfvZI-6-BPrn50DJE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGLnUli6SRqqlMkvaRrGI4w%3D%3D)
 
+[Gupta, A., Dhawan, D., Gupta, N., & Kaushal, H. (2025). Investigation of Outage Performance in NOMA-based Dual-hop FSO Communication. Wireless Personal Communications.](https://link.springer.com/article/10.1007/s11277-025-11775-7)
+
+[Gupta, A., Dhawan, D., Gupta, N., & Kaushal, H. (2025). On the Performance of a UAV-based Málaga-distributed FSO/FSO Communication System with NOMA. Vehicular Communications, 100930.](https://www.sciencedirect.com/science/article/abs/pii/S2214209625000579)
+
 # PUBLICATIONS - 2024
 [Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Mathematical model for enhancing midwave infrared transmission using phoxonic crystals." Physica Scripta, vol. 100, no. 1, 2025, p. 0152a1. IOP Publishing, https://doi.org/10.1088/1402-4896/ada073.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/Sharma_2025_Phys._Scr._100_0152a1.pdf)
 
+[Sahota, J.K., Dhawan, D., Gupta, N. Modeling and Analysis of Temperature-Compensated Fiber Bragg Grating Sensor Based on Flexure Hinge Beam and Diaphragm for Low-Pressure Detection. Arab J Sci Eng 49, 1095–1115 (2024).](https://link.springer.com/article/10.1007/s13369-023-08094-z)
+
+[Singh, J.J., Dhawan, D., Gupta, N. An investigation of an ultrafast 3-bit all-optical binary to gray and gray to binary code converters based on an interference effect in 2D photonic crystal platform. Opt Quant Electron 56, 344 (2024).](https://link.springer.com/article/10.1007/s11082-023-06022-x)
+
 # PUBLICATIONS - 2023
 [Anurag Sharma, Jyoti Kedia, Neena Gupta,,Multispectral transmission through Phoxonic crystal slot-waveguide at midwave infrared frequencies, Opt. Eng. 62(4), 047101 (2023), doi: 10.1117/1.OE.62.4.047101.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB/blob/master/GALLERY/OE-20221178G_online.pdf)
+
+[Kaur, P., Dhawan, D., & Gupta, N. (2023). 2D photonic crystal hexagonal ring resonator-based all-optical logic gates. Optics & Laser Technology, 165, 109624.](https://www.sciencedirect.com/science/article/abs/pii/S0030399223005170?via%3Dihub)
+
+[Upadhyay, C., Dhawan, D. Fiber Bragg grating refractive index sensor based on double D-shaped fiber. Opt Quant Electron 55, 271 (2023).](https://link.springer.com/article/10.1007/s11082-022-04500-2)
 
 # PUBLICATIONS - 2022
 
