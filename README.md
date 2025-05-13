@@ -14,6 +14,13 @@ The main activity of the group is to facilitate research and development in the 
 
 [Gupta, A., Dhawan, D., Gupta, N., & Kaushal, H. (2025). On the Performance of a UAV-based Málaga-distributed FSO/FSO Communication System with NOMA. Vehicular Communications, 100930.](https://www.sciencedirect.com/science/article/abs/pii/S2214209625000579)
 
+[Srivastava, D., Pal, S.S., Dhawan, D., & Das, B. (2025). Quantitative analysis of interferometric interrogation technique used for πFBG sensors. Applied Physics B, 131, 77.
+SpringerLink](https://link.springer.com/article/10.1007/s00340-025-08438-7)
+
+[Kaur, P., Dhawan, D., & Gupta, N. (2024). Mitigation of nonlinearities in long-haul DWDM soliton-based communication system. Journal of Optical Communications, 45(s1), s1649–s1656.](https://doi.org/10.1515/joc-2023-0059)
+
+[Kaur, P., Dhawan, D., & Gupta, N. (2024). Review on optical solitons for long haul transmission. Journal of Optical Communications, 45(s1), s1817–s1828.](https://doi.org/10.1515/joc-2023-0093)
+
 # PUBLICATIONS - 2024
 [Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Mathematical model for enhancing midwave infrared transmission using phoxonic crystals." Physica Scripta, vol. 100, no. 1, 2025, p. 0152a1. IOP Publishing, https://doi.org/10.1088/1402-4896/ada073.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/Sharma_2025_Phys._Scr._100_0152a1.pdf)
 
