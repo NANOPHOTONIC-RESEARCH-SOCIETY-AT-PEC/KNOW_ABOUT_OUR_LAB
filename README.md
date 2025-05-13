@@ -24,6 +24,8 @@ SpringerLink](https://link.springer.com/article/10.1007/s00340-025-08438-7)
 # PUBLICATIONS - 2024
 [Sharma, Anurag, Jyoti Kedia, and Neena Gupta. "Mathematical model for enhancing midwave infrared transmission using phoxonic crystals." Physica Scripta, vol. 100, no. 1, 2025, p. 0152a1. IOP Publishing, https://doi.org/10.1088/1402-4896/ada073.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/PHD18307002_Supplementry_Data_Anurag-Sharma-/blob/main/Sharma_2025_Phys._Scr._100_0152a1.pdf)
 
+[Singh, J.J., Dhawan, D., & Gupta, N. (2024). An investigation of an ultrafast 3-bit all-optical binary to gray and gray to binary code converters based on an interference effect in 2D photonic crystal platform. Optical and Quantum Electronics, 56(3), 344.](https://doi.org/10.1007/s11082-023-06022-x)
+
 [Sahota, J.K., Dhawan, D., Gupta, N. Modeling and Analysis of Temperature-Compensated Fiber Bragg Grating Sensor Based on Flexure Hinge Beam and Diaphragm for Low-Pressure Detection. Arab J Sci Eng 49, 1095–1115 (2024).](https://link.springer.com/article/10.1007/s13369-023-08094-z)
 
 [Singh, J.J., Dhawan, D., Gupta, N. An investigation of an ultrafast 3-bit all-optical binary to gray and gray to binary code converters based on an interference effect in 2D photonic crystal platform. Opt Quant Electron 56, 344 (2024).](https://link.springer.com/article/10.1007/s11082-023-06022-x)
