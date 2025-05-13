@@ -28,10 +28,11 @@ SpringerLink](https://link.springer.com/article/10.1007/s00340-025-08438-7)
 
 [Sahota, J.K., Dhawan, D., Gupta, N. Modeling and Analysis of Temperature-Compensated Fiber Bragg Grating Sensor Based on Flexure Hinge Beam and Diaphragm for Low-Pressure Detection. Arab J Sci Eng 49, 1095–1115 (2024).](https://link.springer.com/article/10.1007/s13369-023-08094-z)
 
-[Singh, J.J., Dhawan, D., Gupta, N. An investigation of an ultrafast 3-bit all-optical binary to gray and gray to binary code converters based on an interference effect in 2D photonic crystal platform. Opt Quant Electron 56, 344 (2024).](https://link.springer.com/article/10.1007/s11082-023-06022-x)
 
 # PUBLICATIONS - 2023
 [Anurag Sharma, Jyoti Kedia, Neena Gupta,,Multispectral transmission through Phoxonic crystal slot-waveguide at midwave infrared frequencies, Opt. Eng. 62(4), 047101 (2023), doi: 10.1117/1.OE.62.4.047101.](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/KNOW_ABOUT_OUR_LAB/blob/master/GALLERY/OE-20221178G_online.pdf)
+
+[Singh, J.J., Dhawan, D., & Gupta, N. (2023). 2D photonic crystal hexagonal ring resonator-based all-optical logic gates. Optics & Laser Technology, 165, 109624.](https://www.sciencedirect.com/science/article/abs/pii/S0030399223005170)
 
 [Kaur, P., Dhawan, D., & Gupta, N. (2023). 2D photonic crystal hexagonal ring resonator-based all-optical logic gates. Optics & Laser Technology, 165, 109624.](https://www.sciencedirect.com/science/article/abs/pii/S0030399223005170?via%3Dihub)
 
